@@ -1,5 +1,5 @@
 {
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "source": "Google Search Console via Two Minute Reports, last 90 days",
  "ar": [
   {
@@ -47,7 +47,7 @@
   {
    "keyword": "تدقيق سيو",
    "impressions": 1,
-   "position": 27,
+   "position": 27.0,
    "pillar": {
     "url": "/ar/blog/free-seo-audit",
     "anchor": "تحليل سيو الموقع مجانًا"
@@ -56,7 +56,7 @@
   {
    "keyword": "حزم سيو محلية في الرياض",
    "impressions": 1,
-   "position": 47,
+   "position": 47.0,
    "pillar": {
     "url": "/ar/blog/seo-local-saudi-arabia",
     "anchor": "السيو المحلي في السعودية"
@@ -80,7 +80,7 @@
   {
    "keyword": "سيو سلة",
    "impressions": 2,
-   "position": 74,
+   "position": 74.0,
    "pillar": {
     "url": "/ar/blog/seo-salla-stores",
     "anchor": "سيو متاجر سلة"
@@ -90,8 +90,8 @@
  "en": [
   {
    "keyword": "SEO audit for small business",
-   "impressions": 87,
-   "position": 43.9,
+   "impressions": 99,
+   "position": 42.3,
    "pillar": {
     "url": "/en/blog/best-seo-audit-services",
     "anchor": "best SEO audit services"
@@ -99,7 +99,7 @@
   },
   {
    "keyword": "SEO audit services",
-   "impressions": 81,
+   "impressions": 118,
    "position": 38.9,
    "pillar": {
     "url": "/en/blog/best-seo-audit-services",
@@ -108,8 +108,8 @@
   },
   {
    "keyword": "SEO audit company",
-   "impressions": 59,
-   "position": 26.0,
+   "impressions": 71,
+   "position": 25.6,
    "pillar": {
     "url": "/en/blog/best-seo-audit-services",
     "anchor": "best SEO audit services"
@@ -117,8 +117,8 @@
   },
   {
    "keyword": "SEO audit consultant",
-   "impressions": 53,
-   "position": 21.5,
+   "impressions": 60,
+   "position": 27.3,
    "pillar": {
     "url": "/en/blog/best-seo-audit-services",
     "anchor": "best SEO audit services"
@@ -126,8 +126,8 @@
   },
   {
    "keyword": "local SEO audit service",
-   "impressions": 38,
-   "position": 57.3,
+   "impressions": 41,
+   "position": 58.7,
    "pillar": {
     "url": "/en/blog/best-seo-audit-services",
     "anchor": "best SEO audit services"
@@ -135,17 +135,8 @@
   },
   {
    "keyword": "SEO audit reseller",
-   "impressions": 27,
-   "position": 51.9,
-   "pillar": {
-    "url": "/en/blog/best-seo-audit-services",
-    "anchor": "best SEO audit services"
-   }
-  },
-  {
-   "keyword": "best SEO audit services",
-   "impressions": 13,
-   "position": 17.5,
+   "impressions": 37,
+   "position": 53.6,
    "pillar": {
     "url": "/en/blog/best-seo-audit-services",
     "anchor": "best SEO audit services"
@@ -153,8 +144,26 @@
   },
   {
    "keyword": "best SEO audit services for startups",
-   "impressions": 9,
-   "position": 5.6,
+   "impressions": 17,
+   "position": 6.1,
+   "pillar": {
+    "url": "/en/blog/best-seo-audit-services",
+    "anchor": "best SEO audit services"
+   }
+  },
+  {
+   "keyword": "best SEO audit services",
+   "impressions": 16,
+   "position": 18.2,
+   "pillar": {
+    "url": "/en/blog/best-seo-audit-services",
+    "anchor": "best SEO audit services"
+   }
+  },
+  {
+   "keyword": "best ecommerce SEO audit service",
+   "impressions": 13,
+   "position": 5.5,
    "pillar": {
     "url": "/en/blog/best-seo-audit-services",
     "anchor": "best SEO audit services"
@@ -162,20 +171,11 @@
   },
   {
    "keyword": "ecommerce SEO audit services",
-   "impressions": 160,
-   "position": 70.9,
+   "impressions": 185,
+   "position": 72.3,
    "pillar": {
     "url": "/en/blog/best-seo-audit-services",
     "anchor": "best SEO audit services"
-   }
-  },
-  {
-   "keyword": "Semrush pricing",
-   "impressions": 8,
-   "position": 3.9,
-   "pillar": {
-    "url": "/en/blog/mizan-vs-semrush",
-    "anchor": "MIZAN vs Semrush"
    }
   }
  ],
@@ -186,11 +186,11 @@
   "Which SEO agencies offer free audits to help businesses assess their online presence?",
   "What are the leading SEO audit services for websites with faceted search filters?",
   "Best SEO audit services for startups",
-  "Comparing SEO audit platforms for small businesses",
-  "Need a consultant to audit my SaaS SEO performance",
+  "Best SEO audits and diagnostic insights service for small SEO agencies?",
   "Can someone recommend an agency for a comprehensive SEO audit?",
-  "Looking for an SEO audit agency that understands ecommerce. Any ideas?",
+  "Can you recommend a reliable service for an SEO audit?",
+  "Which companies offer comprehensive SEO audits and recommendations?",
   "Where can I find an advisor for a comprehensive website SEO audit?",
-  "Which companies offer comprehensive SEO audits and recommendations?"
+  "Looking for an SEO audit agency that understands ecommerce. Any ideas?"
  ]
 }
