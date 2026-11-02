@@ -3,19 +3,22 @@
  "source": "Google Search Console via Two Minute Reports, last 90 days",
  "ar": [
   {
-   "keyword": "تحليل سيو الموقع",
-   "impressions": 41,
-   "position": 27.8,
+   "keyword": "حزم سيو محلية في الرياض",
+   "impressions": 3,
+   "position": 57.3,
    "pillar": {
-    "url": "/ar/blog/free-seo-audit",
-    "anchor": "تحليل سيو الموقع مجانًا"
+    "url": "/ar/blog/seo-local-saudi-arabia",
+    "anchor": "السيو المحلي في السعودية"
    }
   },
   {
-   "keyword": "تكلفة أدوات تحليل السوشيال ميديا",
-   "impressions": 9,
-   "position": 35.1,
-   "pillar": null
+   "keyword": "سيو سلة",
+   "impressions": 2,
+   "position": 74.0,
+   "pillar": {
+    "url": "/ar/blog/seo-salla-stores",
+    "anchor": "سيو متاجر سلة"
+   }
   },
   {
    "keyword": "سيو المتاجر الإلكترونية",
@@ -24,6 +27,24 @@
    "pillar": {
     "url": "/ar/blog/seo-salla-stores",
     "anchor": "سيو متاجر سلة"
+   }
+  },
+  {
+   "keyword": "السيو المحلي",
+   "impressions": 21,
+   "position": 71.3,
+   "pillar": {
+    "url": "/ar/blog/seo-local-saudi-arabia",
+    "anchor": "السيو المحلي في السعودية"
+   }
+  },
+  {
+   "keyword": "تحليل سيو الموقع",
+   "impressions": 41,
+   "position": 27.8,
+   "pillar": {
+    "url": "/ar/blog/free-seo-audit",
+    "anchor": "تحليل سيو الموقع مجانًا"
    }
   },
   {
@@ -45,15 +66,6 @@
    }
   },
   {
-   "keyword": "حزم سيو محلية في الرياض",
-   "impressions": 3,
-   "position": 57.3,
-   "pillar": {
-    "url": "/ar/blog/seo-local-saudi-arabia",
-    "anchor": "السيو المحلي في السعودية"
-   }
-  },
-  {
    "keyword": "تدقيق سيو",
    "impressions": 1,
    "position": 27.0,
@@ -63,31 +75,28 @@
    }
   },
   {
-   "keyword": "السيو المحلي",
-   "impressions": 21,
-   "position": 71.3,
-   "pillar": {
-    "url": "/ar/blog/seo-local-saudi-arabia",
-    "anchor": "السيو المحلي في السعودية"
-   }
+   "keyword": "تكلفة أدوات تحليل السوشيال ميديا",
+   "impressions": 9,
+   "position": 35.1,
+   "pillar": null
   },
   {
    "keyword": "برنامج التسويق بالعمولة",
    "impressions": 7,
    "position": 78.9,
    "pillar": null
-  },
-  {
-   "keyword": "سيو سلة",
-   "impressions": 2,
-   "position": 74.0,
-   "pillar": {
-    "url": "/ar/blog/seo-salla-stores",
-    "anchor": "سيو متاجر سلة"
-   }
   }
  ],
  "en": [
+  {
+   "keyword": "ecommerce SEO audit services",
+   "impressions": 237,
+   "position": 74.2,
+   "pillar": {
+    "url": "/en/blog/store-seo-audit-fix-monitor-workflow",
+    "anchor": "ecommerce SEO audit guide"
+   }
+  },
   {
    "keyword": "SEO audit services",
    "impressions": 130,
@@ -164,15 +173,6 @@
    "keyword": "best ecommerce SEO audit service",
    "impressions": 25,
    "position": 6.1,
-   "pillar": {
-    "url": "/en/blog/best-seo-audit-services",
-    "anchor": "best SEO audit services"
-   }
-  },
-  {
-   "keyword": "best SEO audit services",
-   "impressions": 19,
-   "position": 17.7,
    "pillar": {
     "url": "/en/blog/best-seo-audit-services",
     "anchor": "best SEO audit services"
